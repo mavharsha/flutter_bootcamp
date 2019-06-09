@@ -1,0 +1,3 @@
+* Container with no children try to be as big as possible.
+* Container with children will size themselves to their children
+
